@@ -31,7 +31,10 @@
 */
 
 body {
-	background: #151515;										/* Page background */
+    	background-image: url("images/_DSF1817.jpg"), url("images/wct4.jpg"), url("images/IMG_0207.jpg");
+    	background-repeat: repeat, repeat, repeat;
+    	background-color: #5E5E5E;
+	background: #27435A;										/* Page background */
 	color: #999;														/* Font color */
 	padding: 150px;													/* Padding between link blocks and edge */
 	font-family: "Museo", "Helvetica Neue", sans-serif;	/* Font */
