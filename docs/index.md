@@ -32,7 +32,7 @@ Daily Reads
 http://google.com || Google yeah || g || images/icon.png
 http://deviantart.com || dA || da
 
-News
+Title 2
 http://pixelfuckers.org || PF
 chrome://bookmarks/ || Chrome bookmarks
 
