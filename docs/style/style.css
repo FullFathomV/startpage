@@ -1,11 +1,5 @@
 body {
-    	background: url("wct4.jpg");
-	height: 100%;
-	background-position: right top;
-    	background-repeat: no-repeat;
-    	background-size: cover;
-	background-attachment: fixed;
-	background-color: #27435A;								/* Page background */
+	background: #27435A;								/* Page background */
 	color: #999;														/* Font color */
 	padding: 150px;													/* Padding between link blocks and edge */
 	font-family: "Museo", "Helvetica Neue", sans-serif;	/* Font */
