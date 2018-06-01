@@ -1,0 +1,45 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" href="style/style.css" type="text/css" />
+	<script type="text/javascript" src="js/jquery-1.11.0.min.js"></script>
+	<script type="text/javascript" src="js/script.js"></script>
+
+	<!-- Page Title -->
+	<title>Start Page</title>
+
+</head>
+<body>
+
+<!--
+	URLs go here, in the following format:
+
+Heading Text
+http://www.example.com || Title || Keybinding
+
+Second Heading Text
+http://www.example.com || Another Title
+-->
+
+Title 1
+http://google.com || Google yeah || g || images/icon.png
+http://deviantart.com || dA || da
+
+Title 2
+http://pixelfuckers.org || PF
+chrome://bookmarks/ || Chrome bookmarks
+
+Coconut
+http://newgrounds.com || NG
+
+New Block
+http://lolwut.com || Lol, Wut?
+
+Bananas
+http://crshd.cc || crshd.cc
+http://rahforum.biz || rahforum.biz
+
+</body>
+</html>
