@@ -4,8 +4,7 @@ body {
 	background-position: right top;
     	background-repeat: no-repeat;
     	background-size: cover;
-	background-attachment: fixed;
-    	background-color: #27435A;										/* Page background */
+	background-attachment: fixed;										/* Page background */
 	color: #999;														/* Font color */
 	padding: 150px;													/* Padding between link blocks and edge */
 	font-family: "Museo", "Helvetica Neue", sans-serif;	/* Font */
@@ -14,7 +13,7 @@ body {
 
 a {
 	color: #999;														/* Link Color */
-	font-size: 11px;												/* Link Size */
+	font-size: 14px;												/* Link Size */
 	text-decoration: none;									/* Remove underlines */
 }
 
