@@ -1,11 +1,11 @@
 body {
-    	background-image: url("images/wct4.jpg");
+    	background: url("wct4.jpg");
 	height: 100%;
-	background-position: center;
+	background-position: right top;
     	background-repeat: no-repeat;
     	background-size: cover;
-    	background-color: #5E5E5E;
-	background: #27435A;										/* Page background */
+	background-attachment: fixed;
+    	background-color: #27435A;										/* Page background */
 	color: #999;														/* Font color */
 	padding: 150px;													/* Padding between link blocks and edge */
 	font-family: "Museo", "Helvetica Neue", sans-serif;	/* Font */
@@ -14,7 +14,7 @@ body {
 
 a {
 	color: #999;														/* Link Color */
-	font-size: 16px;												/* Link Size */
+	font-size: 11px;												/* Link Size */
 	text-decoration: none;									/* Remove underlines */
 }
 
@@ -106,5 +106,3 @@ form input:last-child {
 	border-bottom-right-radius: 5px;
 	border-left: 0;
 }
-/* cc BY-NC-SA License :: k3ttc4r :: 2008 :: http://k3ttc4r.deviantart.com */
-/* background by Alexander-GG :: http://alexander-gg.deviantart.com */
