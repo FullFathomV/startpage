@@ -18,7 +18,7 @@ body, html {
 }
 .bg {
     /* The image used */
-    background-image: url("docs/images/wct4.jpg");
+    background-image: url("images/wct4.jpg");
     /* Full height */
     height: 100%; 
     /* Center and scale the image nicely */
