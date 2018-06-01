@@ -1,6 +1,9 @@
 body {
-    	background-image: url("images/_DSF1817.jpg"), url("images/wct4.jpg"), url("images/IMG_0207.jpg");
-    	background-repeat: repeat, repeat, repeat;
+    	background-image: url("images/IMG_0207.jpg");
+	height: 100%;
+	background-position: center;
+    	background-repeat: no-repeat;
+    	background-size: cover;
     	background-color: #5E5E5E;
 	background: #27435A;										/* Page background */
 	color: #999;														/* Font color */
