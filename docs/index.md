@@ -23,7 +23,7 @@ Second Heading Text
 http://www.example.com || Another Title
 -->
 
-Title 1
+Daily Reads
 http://google.com || Google yeah || g || images/icon.png
 http://deviantart.com || dA || da
 
