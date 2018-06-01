@@ -11,17 +11,22 @@
 	<title>Start Page</title>
 
 </head>
-<body>
-
-<!--
-	URLs go here, in the following format:
-
-Heading Text
-http://www.example.com || Title || Keybinding
-
-Second Heading Text
-http://www.example.com || Another Title
--->
+<style>
+body, html {
+    height: 100%;
+    margin: 0;
+}
+.bg {
+    /* The image used */
+    background-image: url("docs/images/wct4.jpg");
+    /* Full height */
+    height: 100%; 
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+</style>
 
 Daily Reads
 http://google.com || Google yeah || g || images/icon.png
