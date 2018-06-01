@@ -8,7 +8,7 @@ body {
 
 a {
 	color: #999;														/* Link Color */
-	font-size: 14px;												/* Link Size */
+	font-size: 16px;												/* Link Size */
 	text-decoration: none;									/* Remove underlines */
 }
 
@@ -25,7 +25,7 @@ a:hover {
 
 h1 {
 	margin: 0;
-	font-size: 1.25em;												/* Title size */
+	font-size: .75em;												/* Title size */
 }
 
 ul {
